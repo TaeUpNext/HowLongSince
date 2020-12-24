@@ -1,6 +1,7 @@
-#Description
+# Description
 This is a program that will either calculate the time from two dates or the time until two dates. 
-##What can a user do
+
+## What can a user do
 Once the user inputs two dates they will be able to
 *See the time from/until in seconds
 *See the time from/until in minutes
